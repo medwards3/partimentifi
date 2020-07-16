@@ -1,0 +1,18 @@
+Measure,1,1.5,2,2.5,3,3.5
+0,,,,,,roman step gal b5
+1,,,,,,
+2,/roman,,cad double,,,
+3,/cad; roman step gal; d3,,,/d3; lyd,,
+4,/roman; /lyd; d3,,,/d3; cad mod dom b3,,
+5,/cad; cad comp dec,,,,,
+6,/cad; cant lyd,,,/cant; ttc d ten dec mod sub,,
+7,/ttc,att ten d #6,,,,
+8,,,,/att,,pdo imit
+9,,,,,,
+10,,,,vxh,,
+11,/pdo; /vxh; roman leap; cad double dec mod sub,,,,,
+12,/cad; mod dom,,,gal step X,/roman,
+13,/mod; /gal; tail a cant mod dom b3,,,,/tail; cad ev alt,
+14,,,/cad; cant,/cant,cad double long mod sub,
+15,,,,,,
+16,,,,,/cad,
